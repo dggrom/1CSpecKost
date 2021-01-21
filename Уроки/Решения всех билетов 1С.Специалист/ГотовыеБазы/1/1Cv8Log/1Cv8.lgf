@@ -1,0 +1,20 @@
+﻿1CV8LOG(ver 2.0)
+1f92b0bf-b22e-4475-bcf9-ee1624ea410c
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-CO2VV0V",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{11,
+{0},1},
+{12,
+{0},1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.RestoreStart",3},
+{4,"_$Session$_.Finish",4},
+{4,"_$InfoBase$_.RestoreFinish",5},
+{4,"_$Session$_.AuthenticationError",6},
+{1,00428c81-6f20-45fe-8852-688936e117f0,"Галкин",2},
+{11,
+{0},2},
+{13,1,2}
